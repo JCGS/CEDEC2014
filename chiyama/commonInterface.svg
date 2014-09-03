@@ -562,7 +562,7 @@
      inkscape:cx="444.19077"
      inkscape:cy="480.95871"
      inkscape:document-units="px"
-     inkscape:current-layer="g5626-8"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-nodes="true"
      showguides="true"
@@ -594,7 +594,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
